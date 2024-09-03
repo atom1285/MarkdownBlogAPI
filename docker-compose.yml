@@ -1,0 +1,6 @@
+﻿services:
+  markdownblogapi:
+    image: markdownblogapi
+    build:
+      context: .
+      dockerfile: MarkdownBlogAPI/Dockerfile

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownBlogAPI", "MarkdownBlogAPI\MarkdownBlogAPI.csproj", "{140F7B24-F223-4224-903D-EA70CA38E899}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{705CABD7-1AEA-4818-9234-A9C9594B0FD1}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{140F7B24-F223-4224-903D-EA70CA38E899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140F7B24-F223-4224-903D-EA70CA38E899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140F7B24-F223-4224-903D-EA70CA38E899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140F7B24-F223-4224-903D-EA70CA38E899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
